@@ -1,0 +1,8 @@
+# AWS secret key can be obtained from amazon console UI
+secret_key = "<required>" 
+
+# AWS access key can be obtained from amazon console UI
+access_key = "<required>"
+
+# AWS region to be used. Sample: us-east-1
+region = "<required>"
